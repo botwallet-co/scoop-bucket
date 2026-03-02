@@ -6,14 +6,14 @@
             "bin": [
                 "botwallet.exe"
             ],
-            "hash": "4c8180a38256eaf6118cd8866095916dbaf9a794e1b99b1659025cecf4e9caf7"
+            "hash": "8731252c691f1d66dd0960f344c8cd6dbe3225de37a4aeba16c5dca98b10e7c0"
         },
         "arm64": {
             "url": "https://github.com/botwallet-co/agent-cli/releases/download/v0.1.0-beta.1/botwallet_0.1.0-beta.1_windows_arm64.zip",
             "bin": [
                 "botwallet.exe"
             ],
-            "hash": "3734b92412a167681acf7e2ebae2b7b50c712b4cf4354b498122dea33c19eadd"
+            "hash": "c9b000f80a999eafb06857c9750b472e08d03f1e612741bd6ad2c0381d776530"
         }
     },
     "homepage": "https://botwallet.co",
