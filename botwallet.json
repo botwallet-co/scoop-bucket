@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-beta.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/botwallet-co/agent-cli/releases/download/v0.1.0-beta.1/botwallet_0.1.0-beta.1_windows_amd64.zip",
+            "bin": [
+                "botwallet.exe"
+            ],
+            "hash": "dd1cf3aeb2a76545fcecdee598d692537bc9c708c5a5bb7816981184a736c5e4"
+        },
+        "arm64": {
+            "url": "https://github.com/botwallet-co/agent-cli/releases/download/v0.1.0-beta.1/botwallet_0.1.0-beta.1_windows_arm64.zip",
+            "bin": [
+                "botwallet.exe"
+            ],
+            "hash": "0658b1788b16e97d05657abe27eff484e23ca0be71e4f1c3ef77820903696694"
+        }
+    },
+    "homepage": "https://botwallet.co",
+    "license": "Apache-2.0",
+    "description": "CLI for AI agents to manage their Botwallet accounts"
+}
