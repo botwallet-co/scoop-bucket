@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0-beta.5",
+    "version": "0.1.0-beta.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/botwallet-co/agent-cli/releases/download/v0.1.0-beta.5/botwallet_0.1.0-beta.5_windows_amd64.zip",
+            "url": "https://github.com/botwallet-co/agent-cli/releases/download/v0.1.0-beta.6/botwallet_0.1.0-beta.6_windows_amd64.zip",
             "bin": [
                 "botwallet.exe"
             ],
-            "hash": "0c8b5fe1f5acc34f9562673d3ace995198afd00087caa2af58fc60c4290f4c66"
+            "hash": "1989055896947453040bf928cd323d6633eb0730ca9b98f4ad9894510fae3c63"
         },
         "arm64": {
-            "url": "https://github.com/botwallet-co/agent-cli/releases/download/v0.1.0-beta.5/botwallet_0.1.0-beta.5_windows_arm64.zip",
+            "url": "https://github.com/botwallet-co/agent-cli/releases/download/v0.1.0-beta.6/botwallet_0.1.0-beta.6_windows_arm64.zip",
             "bin": [
                 "botwallet.exe"
             ],
-            "hash": "9d9d512412bd99f3c4f9d623aeb41d4589ca253b4bb73264b594a6fcd452404f"
+            "hash": "3bc4ce119322bfcd833b5896152160a765a9f3ee6244afa489fd35851a9b5e17"
         }
     },
     "homepage": "https://botwallet.co",
